@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="taxi_names">
+        <item>Standard Taxi</item>
+        <item>Luxury Taxi</item>
+        <item>SUV Taxi</item>
+    </string-array>
+    <integer-array name="taxi_base_fares">
+        <item>3500</item>
+        <item>5000</item>
+        <item>7000</item>
+    </integer-array>
+    <integer-array name="taxi_fare_per_km">
+        <item>11000</item>
+        <item>17000</item>
+        <item>25000</item>
+    </integer-array>
+    <integer-array name="taxi_fare_per_min">
+        <item>2000</item>
+        <item>3000</item>
+        <item>5000</item>
+    </integer-array>
+</resources>
